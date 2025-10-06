@@ -2,24 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-27T19:11:09 IST" name="Default suite" finished-at="2025-09-27T19:11:38 IST" duration-ms="28714">
+  <suite started-at="2025-10-05T13:55:50 IST" name="Default suite" finished-at="2025-10-05T13:55:53 IST" duration-ms="3517">
     <groups>
     </groups>
-    <test started-at="2025-09-27T19:11:09 IST" name="Default test" finished-at="2025-09-27T19:11:38 IST" duration-ms="28714">
-      <class name="Pract.Upload_Practices">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:Pract.Upload_Practices@9d5509a]" started-at="2025-09-27T19:11:09 IST" name="setUp" finished-at="2025-09-27T19:11:19 IST" duration-ms="9312" status="PASS">
+    <test started-at="2025-10-05T13:55:50 IST" name="Default test" finished-at="2025-10-05T13:55:53 IST" duration-ms="3517">
+      <class name="aPI_Practice.pract1">
+        <test-method signature="test001()[pri:0, instance:aPI_Practice.pract1@776aec5c]" started-at="2025-10-05T13:55:50 IST" name="test001" finished-at="2025-10-05T13:55:53 IST" duration-ms="3412" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="load()[pri:0, instance:Pract.Upload_Practices@9d5509a]" started-at="2025-09-27T19:11:19 IST" name="load" finished-at="2025-09-27T19:11:36 IST" duration-ms="16795" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- load -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Pract.Upload_Practices@9d5509a]" started-at="2025-09-27T19:11:36 IST" name="tearDown" finished-at="2025-09-27T19:11:38 IST" duration-ms="2527" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- Pract.Upload_Practices -->
+        </test-method> <!-- test001 -->
+      </class> <!-- aPI_Practice.pract1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
